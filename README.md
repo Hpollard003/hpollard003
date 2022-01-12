@@ -1,5 +1,4 @@
-### Hi there 👋
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+![Minimalist Home Brew Email Header (3)](https://user-images.githubusercontent.com/78292768/149059029-17ee3fb6-747d-4560-948f-134824a188cb.gif)
 <!--
 **Hpollard003/hpollard003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
