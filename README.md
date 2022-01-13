@@ -1,4 +1,4 @@
-![Minimalist Home Brew Email Header (3)](https://user-images.githubusercontent.com/78292768/149059029-17ee3fb6-747d-4560-948f-134824a188cb.gif)
+![Minimalist Home Brew Email Header (4)](https://user-images.githubusercontent.com/78292768/149252420-998966fd-6a7e-4e95-9511-dba61f812995.gif)
 <!--
 **Hpollard003/hpollard003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
