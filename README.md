@@ -1,5 +1,5 @@
 ![Minimalist Home Brew Email Header (4)](https://user-images.githubusercontent.com/78292768/149252420-998966fd-6a7e-4e95-9511-dba61f812995.gif)
-Full-Stack Developer 
+
 <!--
 **Hpollard003/hpollard003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
