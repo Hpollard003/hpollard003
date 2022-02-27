@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Python and Typescript
 - 🎓 Recent grad from Flatiron School Software Engineering Bootcamp
 - ⏳ I like spending my time by running, coding up things I need, learning new skills,
--    and traveling ( Back before you know the [ insert life changing global panic here ] )
+     and traveling ( Back before you know the [ insert life changing global panic here ] )
 
 
 ### Languages and Tools
