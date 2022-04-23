@@ -1,4 +1,4 @@
-![BrowserPreview_tmp](https://user-images.githubusercontent.com/78292768/149252420-998966fd-6a7e-4e95-9511-dba61f812995.gif)
+![Minimalist Home Brew Email Header](https://user-images.githubusercontent.com/78292768/164837715-cf337845-27b7-4673-a3a4-117bed288748.gif)
 
 - 🌱 I’m currently learning: Python and Typescript
 - 🎓 Recent grad from Flatiron School Software Engineering Bootcamp
