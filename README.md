@@ -1,11 +1,5 @@
 ![Minimalist Home Brew Email Header](https://user-images.githubusercontent.com/78292768/164837715-cf337845-27b7-4673-a3a4-117bed288748.gif)
 
-- 🌱 I’m currently learning: Python and Typescript
-- 🎓 Recent grad from Flatiron School Software Engineering Bootcamp
-- ⏳ I like spending my time by running, coding up things I need, learning new skills,
-     and traveling ( Back before you know the [ insert life changing global panic here ] )
-
-
 ### Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
